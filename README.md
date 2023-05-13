@@ -81,3 +81,4 @@ for any purpose, even commercially. But if you do the latter, you **must distrib
 - [ ] ~~Add number of tokens trained?~~ (see [considerations](https://github.com/eugeneyan/open-llms/issues/7))
 - [ ] Add (links to) training code?
 - [ ] Add (links to) eval benchmarks?
+[Apache 2.0](https://en.wikipedia.org/wiki/Apache_License): Allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties.
